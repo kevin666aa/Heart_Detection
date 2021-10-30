@@ -11,6 +11,7 @@ Contains SVM, Logistic Regression, Combined Method.
 Run extraction.m to manually select data.
 
 ## path structure
+<pre>
 |-- code   
 |-- data   
   |--images   
@@ -30,3 +31,4 @@ Run extraction.m to manually select data.
   |--r5a.mat   
   |--labeled_1024frame.csv   
 |--outputs   
+</pre>
